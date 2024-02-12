@@ -2,5 +2,9 @@
     "srwinter": {
         "banneduntil": "2026.12.31-12.00.00pm",
         "BanReason": "Example reason"
+    },
+    "Kal": {
+        "banneduntil": "2055.12.31-12.00.00pm",
+        "BanReason": "Gaylord"
     }
 }
