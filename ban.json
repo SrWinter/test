@@ -2,5 +2,9 @@
     "SoupDawg": {
         "banneduntil": "2055.12.31-12.00.00pm",
         "BanReason": "test"
+    },
+    "SrWinter": {
+        "banneduntil": "2055.12.31-12.00.00pm",
+        "BanReason": "test"
     }
 }
